@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ongoma
-- 👀 I’m interested in software development mobile and web
-- 🌱 I’m currently learning cloud technologies
-- 💞️ I’m looking to collaborate on design and development of open source solutions and payment apis
+- 👀 I’m interested in software development, web and mobile
+- 🌱 I’m currently learning cloud technologies and blockchain 
+- 💞️ I’m looking to collaborate on design and development of open source projects and payment apis
 - 📫 How to reach me josephongoma315@gmail.com
 
 <!---
